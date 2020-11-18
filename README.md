@@ -51,3 +51,9 @@ npm i sass-loader@6.x --save-dev
 )
 5.git remote add origin 远程仓库地址。（此步骤仅第一次需要做）。
 6.git push -u origin master.将本地仓库推送到远程仓库。
+
+六、修改提交(基于五的工作目录）
+若修改了文件。在当前工作目录下
+1.git status	可查看状态。
+2.git commit -a -m 'messages'，可将改动提交到本地仓库。
+3.git push	可将改动推送到远程仓库。
