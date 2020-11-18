@@ -1,15 +1,17 @@
-使用mpvue写的一个图片中心小程序。  为学习mpvue,小程序，和使用git的使用。
-本项目仅仅是为本人学习而编写。虽是完整项目，但为学习用，有错误难免。
+使用mpvue写的一个图片中心小程序。  
+
+为学习mpvue,小程序，和使用git的使用。  
+本项目仅仅是为本人学习而编写。虽是完整项目，但为学习用，有错误难免。  
 项目中的图片是存储在服务器上，非本地图片。因此需要有个后台服务程序。
 
-一、从项目中学习到:
-使用vant-weapp等第三方组件。
-使用mpvue.request发送get和post请求。
-使用van-uploader上传图片。
-使用git.
-回故并熟悉vue的开发。
+一、从项目中学习到:  
+使用vant-weapp等第三方组件。  
+使用mpvue.request发送get和post请求。  
+使用van-uploader上传图片。  
+使用git.  
+回故并熟悉vue的开发。  
 
-二、新建mpvue项目
+二、新建mpvue项目  
 需要安装vue脚手架，如已安装请忽略。
 # 全局安装 vue-cli
 $ npm install --global vue-cli
