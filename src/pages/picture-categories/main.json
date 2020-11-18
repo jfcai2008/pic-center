@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "图片中心",
+  "usingComponents": {
+    "van-card": "../../../static/vant-weapp/card/index"
+  }
+}

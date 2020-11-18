@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "图片列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-card": "../../../static/vant-weapp/card/index",
+    "van-grid": "../../../static/vant-weapp/grid/index",
+    "van-grid-item": "../../../static/vant-weapp/grid-item/index"
+  }
+}
