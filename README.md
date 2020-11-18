@@ -12,12 +12,12 @@
 回故并熟悉vue的开发。  
 
 二、新建mpvue项目  
-需要安装vue脚手架，如已安装请忽略。
-全局安装 vue-cli
-$ npm install --global vue-cli
+需要安装vue脚手架，如已安装请忽略。  
+全局安装vue-cli  
+$ npm install --global vue-cli  
 
 三、初始化一个mpvue项目  
-创建一个基于 mpvue-quickstart 模板的新项目，新手一路回车选择默认就可以了  
+创建一个基于 mpvue-quickstart 模板的新项目，不太清楚如何设置时，一路回车选择默认就可以了  
 $ vue init mpvue/mpvue-quickstart pic-center  
 
 安装依赖  
@@ -38,8 +38,8 @@ npm i sass-loader@6.x --save-dev
 选择小程序项目.点击+,选择导入项目，选择项目目录：就是刚刚创建的项目目录（非dist目录,如上面的pic-center）  
 
 五、git的使用  
-一.先有git项目，克隆下来即可（是这样吗，在未来学习过程中验证）。  
-二.先有本地项目  
+a.先有git项目，克隆下来即可（是这样吗，在未来学习过程中验证）。  
+b.先有本地项目  
 1.在资源管理器项目目录上点右键，选择git bash here  
 2.输入 git init. 设置git管理此项目  
 3.输入 git add .  
